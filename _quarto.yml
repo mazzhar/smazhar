@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+    title: "Salman Mazhar"
+    navbar:
+      tools:
+        - icon: linkedin
+          href: https://www.linkedin.com/in/salman-mazhar-93473a16/
+        - icon: "{{< iconify bi github >}}"
+          href: https://www.github.com/mazzhar
+
+      left:
+        - href: index.qmd
+          text: Home
+        - href: about.qmd
+          text: About
+        - href: CV.qmd
+          text: CV
+        - href: research.qmd
+          text: Research
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

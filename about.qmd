@@ -1,0 +1,72 @@
+---
+title: "About Me"
+date: 2023-11-15
+publish-title: Last Updated
+engine: knitr
+---
+
+Passionate 🌍 geotechnical engineer, 🧑‍🔬 [researcher](https://scholar.google.com/citations?user=AIrKBUgAAAAJ&hl=en), and 🌱 eager Python/R learner with a decade of experience. My focus spans geotechnical site characterization, cohesive deposit consolidation, and data-driven insights.
+
+## Highlights
+
+### 0️⃣ Education 🎓 {#education}
+
+- M.Sc in Civil Engineering (Geotechnical) from [BUET](https://www.buet.ac.bd/), Dhaka, Bangladesh (CGPA: 3.33)
+- B.Sc in Civil Engineering from [UAP](https://www.uap-bd.edu/), Dhaka, Bangladesh (CGPA: 2.75)
+- Ontario Academic Certificate (OAC) from [Nelson A. Boylen Collegiate Institute](https://en.wikipedia.org/wiki/Nelson_A._Boylen_Collegiate_Institute), Toronto, Ontario (89%)
+- Cambridge O-Level from [Emirates Private School](https://eps-alain.ae/), Al-Ain, United Arab Emirates
+
+### 1️⃣  Master Thesis 📖
+
+- [Evaluation of Consolidation Characteristics of Cohesive Soils From Piezocone Penetration Tests](http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6489)
+- *Supervisor:* [Prof. Dr. Mehedi Ahmed Ansary.](https://ce.buet.ac.bd/profile-of-mehedi-ahmed-ansary/).
+- *Defense Board:* [Prof. Dr. Delwar Hossain](https://delwar.buet.ac.bd/index.html), [Prof. Dr. Abu Siddique](https://www.researchgate.net/profile/Abu-Siddique-31), Dr. Jiban Kumar Sarker.
+
+### 2️⃣ Research Interests 🔍
+
+- 🏞|   Geotechnical Site Characterization
+- 💧 |    Consolidation Behavior of Cohesive Deposits
+- 📊|   Geotechnical Data Analysis
+- 🚧|   Geotechnical Risk Assessment
+- 🔄|   Performance Evaluation of Ground Improvement Methods
+- ⚠️|   Construction Safety
+- 📅|   Project Management
+- 🤖|   Machine Learning and Predictive Modeling.
+
+### 3️⃣ Work Experience 👷️
+
+Led  liquefaction analysis, developed polder models, and supervised upscale real estate projects with a commitment to safety and quality standards.
+
+### 4️⃣ Technical Skills 🛠️
+
+Proficient in R, Python, LaTeX, Markdown, MS Office, and simulation tools like PLAXIS 3D, ETABS, and AutoCAD.
+
+### 5️⃣ Publications 📚
+
+[Contributed](https://scholar.google.com/citations?user=AIrKBUgAAAAJ&hl=en) to the geotechnical knowledge through research on in situ and laboratory testing in the context of Bangladesh, soil liquefaction, construction safety, and dynamic responses of reinforced soil.
+
+### 6️⃣ GitHub Repository 💻
+
+Explore my coding endeavors and projects on [GitHub](https://github.com/your-username).
+
+Feel free to delve into my journey—a blend of engineering expertise, research intrigue, and a continuous pursuit of knowledge. For a detailed look at my background, check out my [CV](link-to-your-cv).
+
+#  What's Keeping Me Busy Now
+As of November 15, 2023, I'm spending all my time on these things:
+
+-   **Senior Research Assistant:** Playing a vital role in the consultation team for the esteemed [$1.21 billion BNS Sheikh Hasina](https://en.wikipedia.org/wiki/BNS_Sheikh_Hasina) ([First Submarine Base](https://www.tbsnews.net/bangladesh/glorious-chapter-starts-bangladeshs-first-submarine-base-pm-hasina-602586)) Project.
+
+-    **Parenting Journey:** Nurturing and enjoying every moment with my curious and lively 3.7-year-old son.
+
+-    **Current Read:** Delving into the captivating world of Why Nations Fail by Daron Acemoglu and James A. Robinson. Turning those [daily 4 hours of commuting](https://www.thedailystar.net/news/bangladesh/news/traffic-movement-dhaka-ranked-slowest-world-3430866) into an enlightening journey through the pages of insight and knowledge. Because why not make the most of every minute?
+
+-    **Intellectual Playground:** Channeling my free time into exploring the beauty of mathematics and coding.
+
+-    **Fitness Quest:** Striving to regain momentum on my journey back to bodyweight fitness.
+-   **Current Research Focus:** 
+    - Investigating the root causes of project delays in Bangladesh.
+    - A review of ground improvement projects in Bangladesh.
+
+
+
+

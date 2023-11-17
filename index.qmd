@@ -1,0 +1,38 @@
+---
+title: "Salman Mazhar"
+subtitle: "🚀 Geotechnical Engineer | 🧑‍🔬 Researcher | 🌱 Learning Python/R"
+output:
+  quarto::quarto_html_document:
+    self_contained: false
+---
+
+# Welcome to My Geotechnical World 🌍
+
+Hey there! I'm Salman Mazhar, a Geotechnical Engineer, Researcher, and currently on an exciting journey of learning Python/R. Join me in exploring the fascinating world of geotechnics through my projects and research. Let's dive in and peel back the layers beneath the surface.
+
+## Explore My Journey
+
+🚀 Embark on a journey through my story in geotechnical engineering:
+
+
+- 🔍   | [About Me](about.qmd): Get to know more about my background and interests.                    
+- 🎓   | [Education](about.qmd#education): Learn about my academic journey in civil engineering.                  
+- 📖   | [Master Thesis](about.qmd#master-thesis): Dive into my research on consolidation characteristics.               
+- 👷   | [Work Experience](work-experience): Explore my hands-on experiences in geotechnical engineering.           
+- 🛠️   | [Technical Skills](technical-skills): Check out the tools and technologies I wield.                          
+- 📚   | [Publications](publications): Discover my contributions to the world of geotechnics.                 
+- 💻   | [GitHub Repository](github): Explore my coding and project repositories.                             
+
+Click on each to unveil a chapter of my professional odyssey!
+
+
+
+## Highlights
+
+- 💡 **Latest Projects:** Dive into the exciting projects in geotechnical engineering.
+- 📚 **Research Insights:** Explore shared findings and insights in the field of geotechnics.
+- 🌐 **Connect with Me:** Have questions or just want to chat? Find my contact details in the "About Me" section.
+
+Feel free to navigate through the sections using the links above.
+
+Thank you for dropping by! 🚀

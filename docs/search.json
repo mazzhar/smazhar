@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "quarto-iconify/example.html",
+    "href": "quarto-iconify/example.html",
+    "title": "Iconify Quarto Extension",
+    "section": "",
+    "text": "This extension allows you to use Iconify icons in your Quarto HTML documents. It provides an {{&lt; iconify &gt;}} shortcode:\n\nMandatory &lt;icon-name&gt;:\n{{&lt; iconify &lt;icon-name&gt; &gt;}}\nOptional &lt;set&gt; (default is fluent-emoji) &lt;size=...&gt;, &lt;width=...&gt;, &lt;height=...&gt;, &lt;flip=...&gt;, and &lt;rotate=...&gt;:\n{{&lt; iconify &lt;set&gt; &lt;icon-name&gt; &lt;size=...&gt; &lt;width=...&gt; &lt;height=...&gt; &lt;flip=...&gt; &lt;rotate=...&gt; &gt;}}\nIf &lt;size=...&gt; is defined, &lt;width=...&gt; and &lt;height=...&gt; are not used.\nSee https://docs.iconify.design/iconify-icon/ for more details.\n\nFor example:\n\n\n\n\n\n\n\nShortcode\nIcon\n\n\n\n\n{{&lt; iconify exploding-head &gt;}}\n\n\n\n{{&lt; iconify exploding-head size=2xl &gt;}}\n\n\n\n{{&lt; iconify exploding-head size=5x rotate=180deg &gt;}}\n\n\n\n{{&lt; iconify exploding-head size=Huge &gt;}}\n\n\n\n{{&lt; iconify fluent-emoji-high-contrast 1st-place-medal &gt;}}\n\n\n\n{{&lt; iconify twemoji 1st-place-medal &gt;}}\n\n\n\n{{&lt; iconify line-md loading-alt-loop &gt;}}\n\n\n\n{{&lt; iconify fa6-brands apple width=50px height=10px rotate=90deg flip=vertical &gt;}}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Passionate 🌍 geotechnical engineer, 🧑‍🔬 researcher, and 🌱 eager Python/R learner with a decade of experience. My focus spans geotechnical site characterization, cohesive deposit consolidation, and data-driven insights."
+  },
+  {
+    "objectID": "about.html#highlights",
+    "href": "about.html#highlights",
+    "title": "About Me",
+    "section": "Highlights",
+    "text": "Highlights\n\n0️⃣ Education 🎓\n\nM.Sc in Civil Engineering (Geotechnical) from BUET, Dhaka, Bangladesh (CGPA: 3.33)\nB.Sc in Civil Engineering from UAP, Dhaka, Bangladesh (CGPA: 2.75)\nOntario Academic Certificate (OAC) from Nelson A. Boylen Collegiate Institute, Toronto, Ontario (89%)\nCambridge O-Level from Emirates Private School, Al-Ain, United Arab Emirates\n\n\n\n1️⃣ Master Thesis 📖\n\nEvaluation of Consolidation Characteristics of Cohesive Soils From Piezocone Penetration Tests\nSupervisor: Prof. Dr. Mehedi Ahmed Ansary..\nDefense Board: Prof. Dr. Delwar Hossain, Prof. Dr. Abu Siddique, Dr. Jiban Kumar Sarker.\n\n\n\n2️⃣ Research Interests 🔍\n\n🏞| Geotechnical Site Characterization\n💧 | Consolidation Behavior of Cohesive Deposits\n📊| Geotechnical Data Analysis\n🚧| Geotechnical Risk Assessment\n🔄| Performance Evaluation of Ground Improvement Methods\n⚠️| Construction Safety\n📅| Project Management\n🤖| Machine Learning and Predictive Modeling.\n\n\n\n3️⃣ Work Experience 👷️\nLed liquefaction analysis, developed polder models, and supervised upscale real estate projects with a commitment to safety and quality standards.\n\n\n4️⃣ Technical Skills 🛠️\nProficient in R, Python, LaTeX, Markdown, MS Office, and simulation tools like PLAXIS 3D, ETABS, and AutoCAD.\n\n\n5️⃣ Publications 📚\nContributed to the geotechnical knowledge through research on in situ and laboratory testing in the context of Bangladesh, soil liquefaction, construction safety, and dynamic responses of reinforced soil.\n\n\n6️⃣ GitHub Repository 💻\nExplore my coding endeavors and projects on GitHub.\nFeel free to delve into my journey—a blend of engineering expertise, research intrigue, and a continuous pursuit of knowledge. For a detailed look at my background, check out my CV."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Salman Mazhar",
+    "section": "",
+    "text": "Hey there! I’m Salman Mazhar, a Geotechnical Engineer, Researcher, and currently on an exciting journey of learning Python/R. Join me in exploring the fascinating world of geotechnics through my projects and research. Let’s dive in and peel back the layers beneath the surface.\n\n\n🚀 Embark on a journey through my story in geotechnical engineering:\n\n🔍 | About Me: Get to know more about my background and interests.\n\n🎓 | Education: Learn about my academic journey in civil engineering.\n\n📖 | Master Thesis: Dive into my research on consolidation characteristics.\n\n👷 | Work Experience: Explore my hands-on experiences in geotechnical engineering.\n\n🛠️ | Technical Skills: Check out the tools and technologies I wield.\n\n📚 | Publications: Discover my contributions to the world of geotechnics.\n\n💻 | GitHub Repository: Explore my coding and project repositories.\n\nClick on each to unveil a chapter of my professional odyssey!\n\n\n\n\n💡 Latest Projects: Dive into the exciting projects in geotechnical engineering.\n📚 Research Insights: Explore shared findings and insights in the field of geotechnics.\n🌐 Connect with Me: Have questions or just want to chat? Find my contact details in the “About Me” section.\n\nFeel free to navigate through the sections using the links above.\nThank you for dropping by! 🚀"
+  },
+  {
+    "objectID": "index.html#explore-my-journey",
+    "href": "index.html#explore-my-journey",
+    "title": "Salman Mazhar",
+    "section": "",
+    "text": "🚀 Embark on a journey through my story in geotechnical engineering:\n\n🔍 | About Me: Get to know more about my background and interests.\n\n🎓 | Education: Learn about my academic journey in civil engineering.\n\n📖 | Master Thesis: Dive into my research on consolidation characteristics.\n\n👷 | Work Experience: Explore my hands-on experiences in geotechnical engineering.\n\n🛠️ | Technical Skills: Check out the tools and technologies I wield.\n\n📚 | Publications: Discover my contributions to the world of geotechnics.\n\n💻 | GitHub Repository: Explore my coding and project repositories.\n\nClick on each to unveil a chapter of my professional odyssey!"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Salman Mazhar",
+    "section": "",
+    "text": "💡 Latest Projects: Dive into the exciting projects in geotechnical engineering.\n📚 Research Insights: Explore shared findings and insights in the field of geotechnics.\n🌐 Connect with Me: Have questions or just want to chat? Find my contact details in the “About Me” section.\n\nFeel free to navigate through the sections using the links above.\nThank you for dropping by! 🚀"
+  }
+]
